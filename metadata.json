@@ -1,13 +1,13 @@
 {
-  "author": "",
+  "author": "GT CoC Technology Services Organization",
   "dependencies": [],
-  "license": "",
-  "name": "chad-profiles",
+  "license": "Apache",
+  "name": "tsoresearch-profiles",
   "operatingsystem_support": [],
   "project_page": "",
   "requirements": [],
-  "source": "",
-  "summary": "",
+  "source": "https://github.gatech.edu/tso-research/puppet-modules-profiles-r10k",
+  "summary": "Site-specific module compositions",
   "tags": [],
   "version": "0.1.0"
 }
