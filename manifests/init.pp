@@ -6,10 +6,9 @@
 #
 # Actions:
 #
-# Requires: see Modulefile
+# Requires: see metadata.json
 #
-# Sample Usage:
+# Sample Usage: This class should never be included directly.  This file is just here as a placeholder
 #
 class profiles {
-
 }
